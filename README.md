@@ -1,0 +1,2 @@
+# exercise
+pyhon exercises 
